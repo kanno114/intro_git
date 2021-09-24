@@ -1,2 +1,4 @@
 Gitの練習を始めるよ
 編集したよ、てへ
+・git add
+・git commit
